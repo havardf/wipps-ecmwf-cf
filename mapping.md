@@ -22,7 +22,7 @@ CF-name: [dew_point_temperature](http://vocab.nerc.ac.uk/standard_name/dew_point
 
 ### 10-m u, 10-m v
 
-ECMWF shortname: [u_10m](https://codes.ecmwf.int/grib/param-db/500027), [v_10m](https://codes.ecmwf.int/grib/param-db/500029)
+ECMWF shortname: [10u](https://codes.ecmwf.int/grib/param-db/165), [10v](https://codes.ecmwf.int/grib/param-db/166)
 
 CF-name: [x_wind](http://vocab.nerc.ac.uk/standard_name/x_wind/), [y_wind](https://vocab.nerc.ac.uk/standard_name/y_wind/)
 
