@@ -4,7 +4,7 @@
 
 ### 2-m temperature
 
-ECMWF shortname: [sst](https://codes.ecmwf.int/grib/param-db/34)
+ECMWF shortname: [2t](https://codes.ecmwf.int/grib/param-db/167)
 
 CF-name: [air_temperature](https://vocab.nerc.ac.uk/standard_name/air_temperature/)
 
