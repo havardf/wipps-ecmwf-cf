@@ -10,7 +10,7 @@ CF-name: [air_temperature](https://vocab.nerc.ac.uk/standard_name/air_temperatur
 
 ### 2-m minimum and maximum temperatures in the last 3-hour/6-hour period
 
-ECMWF shortname: [mx2t6](https://codes.ecmwf.int/grib/param-db/121), [mn2t6](https://codes.ecmwf.int/grib/param-db/122)
+ECMWF shortname: [mx2t3](https://codes.ecmwf.int/grib/param-db/228026), [mn2t3](https://codes.ecmwf.int/grib/param-db/228027), [mx2t6](https://codes.ecmwf.int/grib/param-db/121), [mn2t6](https://codes.ecmwf.int/grib/param-db/122)
 
 CF-name: [air_temperature](https://vocab.nerc.ac.uk/standard_name/air_temperature)
 
