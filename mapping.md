@@ -92,10 +92,10 @@ CF-name: [air_temperature](https://vocab.nerc.ac.uk/standard_name/air_temperatur
 ### Wind zonal velocity (u) and meridional velocity (v)
 
 Level: 925/850/700/500/250/200 hPa
+
 ECMWF-shortname:
-ECMWF-link:
+
 CF-name:
-CF-link:  
 
 ### Relative humidity
 
